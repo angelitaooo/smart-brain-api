@@ -1,0 +1,15 @@
+{
+  "name": "smart-brain-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "angelitaooo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
